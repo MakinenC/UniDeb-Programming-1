@@ -14,7 +14,7 @@ int main() {
         celsius = (fahrenheit - 32) * 5.0 / 9.0;
         
       
-          // Print two columns: Fahrenheit temperature and corresponding Celsius temperature
+          // Print two columns: Fahrenheit temperature and corresponding Celsius temperature.
       
       printf("%10d\t%8.2f\n", fahrenheit, celsius);
     }
