@@ -1,0 +1,1 @@
+This storage is for anyone who currently studying Engineering in University of Debrecen. You can find solutions/descriptions of these exercises and their code.
